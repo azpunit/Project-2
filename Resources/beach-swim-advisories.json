@@ -1,0 +1,7850 @@
+[
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 33.8,
+   "Probability": 0.107,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160604"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 33.6,
+   "Probability": 0.106,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160604"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 18.9,
+   "Probability": 0.018,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160604"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 14.9,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160604"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 101.5,
+   "Probability": 0.277,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160604"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 7.6,
+   "Probability": 0.004,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160604"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 32.5,
+   "Probability": 0.078,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160604"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 9.6,
+   "Probability": 0.006,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160604"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-04T00:00:00",
+   "Predicted Level": 37,
+   "Probability": 0.082,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160604"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 51.3,
+   "Probability": 0.164,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160606"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 27.1,
+   "Probability": 0.083,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160606"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 22.3,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160606"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 23.4,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160606"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 132.8,
+   "Probability": 0.343,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160606"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 12.8,
+   "Probability": 0.012,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160606"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 34.2,
+   "Probability": 0.083,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160606"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 15.3,
+   "Probability": 0.016,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160606"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-06T00:00:00",
+   "Predicted Level": 66.6,
+   "Probability": 0.171,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160606"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 84.1,
+   "Probability": 0.255,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160607"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 29.9,
+   "Probability": 0.093,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160607"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160607"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 36.4,
+   "Probability": 0.084,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160607"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 98.8,
+   "Probability": 0.27,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160607"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 19.8,
+   "Probability": 0.028,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160607"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 37.2,
+   "Probability": 0.093,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160607"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 34,
+   "Probability": 0.065,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160607"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-07T00:00:00",
+   "Predicted Level": 68.4,
+   "Probability": 0.176,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160607"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 49.2,
+   "Probability": 0.158,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160608"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 32.1,
+   "Probability": 0.101,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160608"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160608"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 36.7,
+   "Probability": 0.085,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160608"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 108.5,
+   "Probability": 0.293,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160608"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 18.9,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160608"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 53.7,
+   "Probability": 0.145,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160608"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 34.2,
+   "Probability": 0.066,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160608"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-08T00:00:00",
+   "Predicted Level": 70.8,
+   "Probability": 0.183,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160608"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 59.1,
+   "Probability": 0.188,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160609"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 38.8,
+   "Probability": 0.124,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160609"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160609"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 33.7,
+   "Probability": 0.076,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160609"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 105,
+   "Probability": 0.285,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160609"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 18.7,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160609"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 33.3,
+   "Probability": 0.08,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160609"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 31.8,
+   "Probability": 0.059,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160609"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-09T00:00:00",
+   "Predicted Level": 46.6,
+   "Probability": 0.111,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160609"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 47.9,
+   "Probability": 0.153,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160610"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 40.9,
+   "Probability": 0.131,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160610"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 31.8,
+   "Probability": 0.048,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160610"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 87.5,
+   "Probability": 0.233,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160610"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 423.7,
+   "Probability": 0.661,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160610"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 91.8,
+   "Probability": 0.234,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160610"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 34.3,
+   "Probability": 0.083,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160610"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 73.5,
+   "Probability": 0.181,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160610"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-10T00:00:00",
+   "Predicted Level": 95.3,
+   "Probability": 0.248,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160610"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 154.3,
+   "Probability": 0.393,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160612"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 48.2,
+   "Probability": 0.155,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160612"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160612"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 35.1,
+   "Probability": 0.08,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160612"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 132.4,
+   "Probability": 0.343,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160612"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 20,
+   "Probability": 0.029,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160612"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 121.4,
+   "Probability": 0.318,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160612"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 32.6,
+   "Probability": 0.061,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160612"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-12T00:00:00",
+   "Predicted Level": 47.9,
+   "Probability": 0.115,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160612"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 91.6,
+   "Probability": 0.273,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160613"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 48.3,
+   "Probability": 0.155,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160613"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160613"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 36.7,
+   "Probability": 0.085,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160613"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 149,
+   "Probability": 0.374,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160613"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 26,
+   "Probability": 0.045,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160613"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 87.2,
+   "Probability": 0.238,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160613"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 33.9,
+   "Probability": 0.065,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160613"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-13T00:00:00",
+   "Predicted Level": 55.1,
+   "Probability": 0.137,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160613"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 49.4,
+   "Probability": 0.158,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160614"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 55.8,
+   "Probability": 0.179,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160614"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160614"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 36.1,
+   "Probability": 0.083,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160614"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 129,
+   "Probability": 0.336,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160614"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 32.6,
+   "Probability": 0.064,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160614"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 96.4,
+   "Probability": 0.261,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160614"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 33.4,
+   "Probability": 0.063,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160614"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-14T00:00:00",
+   "Predicted Level": 66.7,
+   "Probability": 0.171,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160614"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 56,
+   "Probability": 0.178,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160615"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 178.9,
+   "Probability": 0.431,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160615"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 27.1,
+   "Probability": 0.036,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160615"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 34.2,
+   "Probability": 0.077,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160615"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 254.7,
+   "Probability": 0.523,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160615"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 30.8,
+   "Probability": 0.059,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160615"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 38.1,
+   "Probability": 0.096,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160615"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 20.4,
+   "Probability": 0.028,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160615"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-15T00:00:00",
+   "Predicted Level": 67.9,
+   "Probability": 0.175,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160615"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 41.6,
+   "Probability": 0.133,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160616"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 49.7,
+   "Probability": 0.16,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160616"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 20.5,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160616"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 19.2,
+   "Probability": 0.032,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160616"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 126.4,
+   "Probability": 0.331,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160616"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 12,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160616"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 61.4,
+   "Probability": 0.168,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160616"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 12.2,
+   "Probability": 0.01,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160616"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-16T00:00:00",
+   "Predicted Level": 36.2,
+   "Probability": 0.079,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160616"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 108.3,
+   "Probability": 0.309,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160617"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 43.7,
+   "Probability": 0.141,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160617"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160617"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 46.8,
+   "Probability": 0.117,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160617"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 142.7,
+   "Probability": 0.362,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160617"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 22.1,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160617"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 109,
+   "Probability": 0.291,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160617"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 41.3,
+   "Probability": 0.087,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160617"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-17T00:00:00",
+   "Predicted Level": 79.2,
+   "Probability": 0.206,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160617"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160618"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160618"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160618"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160618"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160618"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160618"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160618"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160618"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-18T00:00:00",
+   "Predicted Level": -1000,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160618"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 35.3,
+   "Probability": 0.111,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160619"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 32.4,
+   "Probability": 0.102,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160619"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 19.8,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160619"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 17.9,
+   "Probability": 0.029,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160619"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 142.9,
+   "Probability": 0.363,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160619"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 9.4,
+   "Probability": 0.006,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160619"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 36.7,
+   "Probability": 0.091,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160619"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 11.2,
+   "Probability": 0.009,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160619"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-19T00:00:00",
+   "Predicted Level": 25.6,
+   "Probability": 0.048,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160619"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 30.6,
+   "Probability": 0.095,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160620"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 28.2,
+   "Probability": 0.087,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160620"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 19.4,
+   "Probability": 0.019,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160620"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 15,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160620"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 135.9,
+   "Probability": 0.349,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160620"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 12.1,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160620"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 47.5,
+   "Probability": 0.126,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160620"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 9.5,
+   "Probability": 0.006,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160620"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-20T00:00:00",
+   "Predicted Level": 27.4,
+   "Probability": 0.053,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160620"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 50.4,
+   "Probability": 0.161,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160621"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 34.8,
+   "Probability": 0.111,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160621"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 20.1,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160621"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 20.5,
+   "Probability": 0.036,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160621"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 117,
+   "Probability": 0.311,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160621"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 10.5,
+   "Probability": 0.008,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160621"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 58,
+   "Probability": 0.158,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160621"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 12.5,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160621"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-21T00:00:00",
+   "Predicted Level": 27.7,
+   "Probability": 0.054,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160621"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 28.6,
+   "Probability": 0.088,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160622"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 52.8,
+   "Probability": 0.169,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160622"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 20.2,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160622"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 19.5,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160622"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 121.2,
+   "Probability": 0.32,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160622"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 10.3,
+   "Probability": 0.008,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160622"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 42.6,
+   "Probability": 0.11,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160622"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 12.2,
+   "Probability": 0.01,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160622"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-22T00:00:00",
+   "Predicted Level": 29.1,
+   "Probability": 0.058,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160622"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 109.4,
+   "Probability": 0.312,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160623"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 65.4,
+   "Probability": 0.206,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160623"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 36.7,
+   "Probability": 0.061,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160623"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 146.3,
+   "Probability": 0.363,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160623"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 740.9,
+   "Probability": 0.791,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160623"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 284.3,
+   "Probability": 0.558,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160623"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 106.3,
+   "Probability": 0.284,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160623"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 165.1,
+   "Probability": 0.391,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160623"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-23T00:00:00",
+   "Predicted Level": 97.3,
+   "Probability": 0.253,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160623"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 115.4,
+   "Probability": 0.324,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160624"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 44.2,
+   "Probability": 0.142,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160624"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 22,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160624"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 30,
+   "Probability": 0.064,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160624"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 158.6,
+   "Probability": 0.391,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160624"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 20.9,
+   "Probability": 0.031,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160624"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 108.1,
+   "Probability": 0.289,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160624"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 19.1,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160624"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-24T00:00:00",
+   "Predicted Level": 51,
+   "Probability": 0.125,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160624"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 48,
+   "Probability": 0.154,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160625"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 33.8,
+   "Probability": 0.107,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160625"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160625"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 31.5,
+   "Probability": 0.069,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160625"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 128.7,
+   "Probability": 0.335,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160625"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 26.7,
+   "Probability": 0.047,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160625"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 41.4,
+   "Probability": 0.106,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160625"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 29.1,
+   "Probability": 0.051,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160625"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-25T00:00:00",
+   "Predicted Level": 28.3,
+   "Probability": 0.056,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160625"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 73.4,
+   "Probability": 0.227,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160626"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 380.3,
+   "Probability": 0.621,
+   "Swim Advisory": "Y",
+   "RecordID": "63rdStreet20160626"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 22.4,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160626"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 26.8,
+   "Probability": 0.055,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160626"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 212.3,
+   "Probability": 0.471,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160626"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 23.9,
+   "Probability": 0.039,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160626"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 45.1,
+   "Probability": 0.118,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160626"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 16.3,
+   "Probability": 0.018,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160626"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-26T00:00:00",
+   "Predicted Level": 35.9,
+   "Probability": 0.079,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160626"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 28.3,
+   "Probability": 0.087,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160627"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 37.2,
+   "Probability": 0.119,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160627"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 22.2,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160627"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 24.2,
+   "Probability": 0.047,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160627"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 161.9,
+   "Probability": 0.396,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160627"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 14.2,
+   "Probability": 0.015,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160627"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 70.3,
+   "Probability": 0.193,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160627"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 16.1,
+   "Probability": 0.018,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160627"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-27T00:00:00",
+   "Predicted Level": 27.1,
+   "Probability": 0.052,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160627"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 216.9,
+   "Probability": 0.479,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160628"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 56.5,
+   "Probability": 0.181,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160628"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 30.2,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160628"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 62.9,
+   "Probability": 0.165,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160628"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 207,
+   "Probability": 0.464,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160628"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 63.4,
+   "Probability": 0.156,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160628"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 146.6,
+   "Probability": 0.367,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160628"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 85.1,
+   "Probability": 0.213,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160628"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-28T00:00:00",
+   "Predicted Level": 45.2,
+   "Probability": 0.107,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160628"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 125.7,
+   "Probability": 0.344,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160629"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 36.8,
+   "Probability": 0.117,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160629"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160629"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 41.9,
+   "Probability": 0.102,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160629"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 181.3,
+   "Probability": 0.427,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160629"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 26.3,
+   "Probability": 0.046,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160629"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 63.8,
+   "Probability": 0.174,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160629"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 37.2,
+   "Probability": 0.075,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160629"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-29T00:00:00",
+   "Predicted Level": 37.1,
+   "Probability": 0.082,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160629"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 31.2,
+   "Probability": 0.097,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160630"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 33.8,
+   "Probability": 0.107,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160630"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 21.1,
+   "Probability": 0.022,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160630"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 27.5,
+   "Probability": 0.057,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160630"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 112.8,
+   "Probability": 0.302,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160630"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 10.6,
+   "Probability": 0.008,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160630"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 42.6,
+   "Probability": 0.11,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160630"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 16.8,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160630"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-06-30T00:00:00",
+   "Predicted Level": 24.1,
+   "Probability": 0.043,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160630"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 81.8,
+   "Probability": 0.249,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160701"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 34.3,
+   "Probability": 0.109,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160701"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160701"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 43.1,
+   "Probability": 0.105,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160701"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 123.5,
+   "Probability": 0.325,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160701"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 41.1,
+   "Probability": 0.089,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160701"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 53.3,
+   "Probability": 0.143,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160701"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 37.7,
+   "Probability": 0.076,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160701"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-01T00:00:00",
+   "Predicted Level": 41.4,
+   "Probability": 0.095,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160701"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 151.5,
+   "Probability": 0.389,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160702"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 55.8,
+   "Probability": 0.178,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160702"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 22.9,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160702"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 40.2,
+   "Probability": 0.096,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160702"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 173.5,
+   "Probability": 0.415,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160702"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 14.7,
+   "Probability": 0.016,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160702"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 98.3,
+   "Probability": 0.266,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160702"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 26.6,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160702"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-02T00:00:00",
+   "Predicted Level": 33.9,
+   "Probability": 0.072,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160702"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 70.4,
+   "Probability": 0.219,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160704"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 59.1,
+   "Probability": 0.188,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160704"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160704"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 42.2,
+   "Probability": 0.103,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160704"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 111.3,
+   "Probability": 0.299,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160704"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 44,
+   "Probability": 0.098,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160704"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 63.5,
+   "Probability": 0.174,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160704"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 37.1,
+   "Probability": 0.074,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160704"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-04T00:00:00",
+   "Predicted Level": 40.8,
+   "Probability": 0.094,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160704"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 37.9,
+   "Probability": 0.12,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160705"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 54.2,
+   "Probability": 0.174,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160705"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 22.5,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160705"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 32.1,
+   "Probability": 0.071,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160705"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 162.6,
+   "Probability": 0.397,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160705"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 22.3,
+   "Probability": 0.035,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160705"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 70.9,
+   "Probability": 0.195,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160705"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 21.1,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160705"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-05T00:00:00",
+   "Predicted Level": 33.9,
+   "Probability": 0.072,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160705"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 82.6,
+   "Probability": 0.251,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160706"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 1382.7,
+   "Probability": 0.872,
+   "Swim Advisory": "Y",
+   "RecordID": "63rdStreet20160706"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 32,
+   "Probability": 0.048,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160706"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 80.2,
+   "Probability": 0.214,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160706"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 529.3,
+   "Probability": 0.717,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160706"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 77.3,
+   "Probability": 0.196,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160706"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 50.8,
+   "Probability": 0.136,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160706"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 41.9,
+   "Probability": 0.089,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160706"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-06T00:00:00",
+   "Predicted Level": 63,
+   "Probability": 0.161,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160706"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 40.1,
+   "Probability": 0.128,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160707"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 43.9,
+   "Probability": 0.141,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160707"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 26,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160707"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 25.9,
+   "Probability": 0.052,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160707"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 155.2,
+   "Probability": 0.385,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160707"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 21.9,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160707"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 81.4,
+   "Probability": 0.223,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160707"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 15.7,
+   "Probability": 0.017,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160707"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-07T00:00:00",
+   "Predicted Level": 29.7,
+   "Probability": 0.06,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160707"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160708"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160708"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160708"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160708"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160708"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160708"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160708"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160708"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-08T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160708"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 92.4,
+   "Probability": 0.274,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160709"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 46.5,
+   "Probability": 0.149,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160709"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160709"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 44.2,
+   "Probability": 0.109,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160709"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 125.1,
+   "Probability": 0.328,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160709"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 43.4,
+   "Probability": 0.096,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160709"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 86.3,
+   "Probability": 0.236,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160709"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 38.2,
+   "Probability": 0.077,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160709"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-09T00:00:00",
+   "Predicted Level": 31.2,
+   "Probability": 0.064,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160709"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 107.6,
+   "Probability": 0.308,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160710"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 40.1,
+   "Probability": 0.128,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160710"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 22.4,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160710"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 35.9,
+   "Probability": 0.083,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160710"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 197.1,
+   "Probability": 0.451,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160710"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 20.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160710"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 46,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160710"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 22.6,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160710"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-10T00:00:00",
+   "Predicted Level": 30.1,
+   "Probability": 0.061,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160710"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 37.5,
+   "Probability": 0.119,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160711"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 40.2,
+   "Probability": 0.129,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160711"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160711"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 35.7,
+   "Probability": 0.082,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160711"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 139.4,
+   "Probability": 0.356,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160711"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 34.7,
+   "Probability": 0.07,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160711"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 50.4,
+   "Probability": 0.134,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160711"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 31.8,
+   "Probability": 0.059,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160711"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-11T00:00:00",
+   "Predicted Level": 23.2,
+   "Probability": 0.041,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160711"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 29.1,
+   "Probability": 0.09,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160712"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 35,
+   "Probability": 0.111,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160712"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 17.2,
+   "Probability": 0.015,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160712"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 16.7,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160712"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 122.5,
+   "Probability": 0.323,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160712"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 23.7,
+   "Probability": 0.038,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160712"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 56.1,
+   "Probability": 0.152,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160712"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 10.2,
+   "Probability": 0.007,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160712"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-12T00:00:00",
+   "Predicted Level": 25.2,
+   "Probability": 0.046,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160712"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 37.5,
+   "Probability": 0.119,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160713"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 37.8,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160713"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160713"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 36.3,
+   "Probability": 0.084,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160713"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 142.2,
+   "Probability": 0.361,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160713"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 45.5,
+   "Probability": 0.103,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160713"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 48.1,
+   "Probability": 0.127,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160713"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 32.2,
+   "Probability": 0.06,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160713"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-13T00:00:00",
+   "Predicted Level": 26.6,
+   "Probability": 0.05,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160713"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 122.6,
+   "Probability": 0.338,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160714"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 44.3,
+   "Probability": 0.142,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160714"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 26.6,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160714"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 40.1,
+   "Probability": 0.096,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160714"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 213.6,
+   "Probability": 0.473,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160714"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 39.7,
+   "Probability": 0.085,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160714"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 96.7,
+   "Probability": 0.262,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160714"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 22.1,
+   "Probability": 0.032,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160714"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-14T00:00:00",
+   "Predicted Level": 37.2,
+   "Probability": 0.082,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160714"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 54.5,
+   "Probability": 0.174,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160715"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 50.2,
+   "Probability": 0.161,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160715"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 21.2,
+   "Probability": 0.022,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160715"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 35.2,
+   "Probability": 0.081,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160715"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 124.2,
+   "Probability": 0.326,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160715"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 20.7,
+   "Probability": 0.031,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160715"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 80.2,
+   "Probability": 0.22,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160715"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 20.2,
+   "Probability": 0.027,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160715"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-15T00:00:00",
+   "Predicted Level": 23.9,
+   "Probability": 0.043,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160715"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 154.4,
+   "Probability": 0.394,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160716"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 48.4,
+   "Probability": 0.156,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160716"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160716"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 53.2,
+   "Probability": 0.136,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160716"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 157.8,
+   "Probability": 0.389,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160716"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 49.3,
+   "Probability": 0.114,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160716"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 132.7,
+   "Probability": 0.341,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160716"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 44.3,
+   "Probability": 0.096,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160716"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-16T00:00:00",
+   "Predicted Level": 30.9,
+   "Probability": 0.063,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160716"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 72.5,
+   "Probability": 0.225,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160717"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 54.6,
+   "Probability": 0.175,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160717"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160717"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 45.7,
+   "Probability": 0.113,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160717"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 106.5,
+   "Probability": 0.288,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160717"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 38.8,
+   "Probability": 0.082,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160717"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 56.7,
+   "Probability": 0.154,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160717"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 38.9,
+   "Probability": 0.08,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160717"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-17T00:00:00",
+   "Predicted Level": 21.5,
+   "Probability": 0.036,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160717"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 142.9,
+   "Probability": 0.375,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160718"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 46.6,
+   "Probability": 0.15,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160718"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 24.3,
+   "Probability": 0.029,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160718"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 79.8,
+   "Probability": 0.213,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160718"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 559.9,
+   "Probability": 0.73,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160718"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 84.6,
+   "Probability": 0.215,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160718"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 86.7,
+   "Probability": 0.237,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160718"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 42,
+   "Probability": 0.089,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160718"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-18T00:00:00",
+   "Predicted Level": 42.5,
+   "Probability": 0.099,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160718"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 37.9,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160719"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 45,
+   "Probability": 0.145,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160719"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160719"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 41.5,
+   "Probability": 0.1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160719"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 145.4,
+   "Probability": 0.367,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160719"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 46.5,
+   "Probability": 0.106,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160719"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 49.9,
+   "Probability": 0.133,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160719"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 35.8,
+   "Probability": 0.071,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160719"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-19T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160719"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 67,
+   "Probability": 0.21,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160720"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 46.2,
+   "Probability": 0.148,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160720"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160720"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 39.3,
+   "Probability": 0.093,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160720"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 157,
+   "Probability": 0.388,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160720"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 43.7,
+   "Probability": 0.097,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160720"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 49.9,
+   "Probability": 0.133,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160720"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 34.2,
+   "Probability": 0.066,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160720"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-20T00:00:00",
+   "Predicted Level": 20.8,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160720"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 41,
+   "Probability": 0.131,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160721"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 45.2,
+   "Probability": 0.145,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160721"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 20.4,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160721"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 25,
+   "Probability": 0.049,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160721"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 157.1,
+   "Probability": 0.388,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160721"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 29.4,
+   "Probability": 0.054,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160721"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 54.3,
+   "Probability": 0.146,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160721"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 14.6,
+   "Probability": 0.015,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160721"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-21T00:00:00",
+   "Predicted Level": 23.5,
+   "Probability": 0.041,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160721"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 124.5,
+   "Probability": 0.342,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160722"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 61.6,
+   "Probability": 0.196,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160722"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 37.8,
+   "Probability": 0.064,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160722"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 145,
+   "Probability": 0.361,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160722"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 796.2,
+   "Probability": 0.806,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160722"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 230.2,
+   "Probability": 0.494,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160722"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 49.8,
+   "Probability": 0.132,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160722"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 107.5,
+   "Probability": 0.27,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160722"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-22T00:00:00",
+   "Predicted Level": 44,
+   "Probability": 0.103,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160722"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 41.8,
+   "Probability": 0.134,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160723"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 55.6,
+   "Probability": 0.178,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160723"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 22.2,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160723"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 29.8,
+   "Probability": 0.064,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160723"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 168.5,
+   "Probability": 0.407,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160723"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 31.6,
+   "Probability": 0.061,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160723"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 85.1,
+   "Probability": 0.233,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160723"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 18.6,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160723"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-23T00:00:00",
+   "Predicted Level": 20.4,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160723"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160724"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160724"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160724"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160724"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160724"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160724"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160724"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160724"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-24T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160724"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160725"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160725"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160725"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160725"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160725"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160725"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160725"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160725"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-25T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160725"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160726"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160726"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160726"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160726"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160726"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160726"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160726"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160726"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-26T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160726"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 52.1,
+   "Probability": 0.167,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160727"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 49.3,
+   "Probability": 0.159,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160727"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 23.5,
+   "Probability": 0.027,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160727"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 40.8,
+   "Probability": 0.098,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160727"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 168.9,
+   "Probability": 0.408,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160727"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 27,
+   "Probability": 0.048,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160727"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 53.7,
+   "Probability": 0.145,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160727"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 28.3,
+   "Probability": 0.049,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160727"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-27T00:00:00",
+   "Predicted Level": 19.9,
+   "Probability": 0.032,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160727"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160728"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160728"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160728"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160728"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160728"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160728"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160728"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160728"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-28T00:00:00",
+   "Predicted Level": -1002,
+   "Probability": -1,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160728"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 241,
+   "Probability": 0.506,
+   "Swim Advisory": "Y",
+   "RecordID": "Calumet20160729"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 64.3,
+   "Probability": 0.203,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160729"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 25.6,
+   "Probability": 0.032,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160729"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 51.4,
+   "Probability": 0.131,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160729"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 299.8,
+   "Probability": 0.568,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160729"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 48.7,
+   "Probability": 0.112,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160729"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 155.2,
+   "Probability": 0.383,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160729"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 31.9,
+   "Probability": 0.059,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160729"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-29T00:00:00",
+   "Predicted Level": 24.7,
+   "Probability": 0.045,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160729"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 274.6,
+   "Probability": 0.54,
+   "Swim Advisory": "Y",
+   "RecordID": "Calumet20160730"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 219.8,
+   "Probability": 0.483,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160730"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 33,
+   "Probability": 0.051,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160730"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 92.1,
+   "Probability": 0.245,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160730"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 318.3,
+   "Probability": 0.585,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160730"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 176.6,
+   "Probability": 0.413,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160730"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 185.5,
+   "Probability": 0.432,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160730"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 109.5,
+   "Probability": 0.275,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160730"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-30T00:00:00",
+   "Predicted Level": 28.1,
+   "Probability": 0.055,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160730"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 28.8,
+   "Probability": 0.089,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160731"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 70.4,
+   "Probability": 0.22,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160731"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160731"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 55.3,
+   "Probability": 0.143,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160731"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 151.9,
+   "Probability": 0.379,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160731"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 78.5,
+   "Probability": 0.199,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160731"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 159.3,
+   "Probability": 0.39,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160731"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 44.9,
+   "Probability": 0.098,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160731"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-07-31T00:00:00",
+   "Predicted Level": 24.3,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160731"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 85.1,
+   "Probability": 0.257,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160801"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 57.6,
+   "Probability": 0.184,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160801"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 25.7,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160801"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 56.1,
+   "Probability": 0.145,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160801"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 163.3,
+   "Probability": 0.398,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160801"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 137.2,
+   "Probability": 0.339,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160801"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 98.4,
+   "Probability": 0.266,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160801"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 57.9,
+   "Probability": 0.136,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160801"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-01T00:00:00",
+   "Predicted Level": 21.4,
+   "Probability": 0.036,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160801"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 80.6,
+   "Probability": 0.246,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160802"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 56.9,
+   "Probability": 0.182,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160802"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160802"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 48.3,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160802"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 185.4,
+   "Probability": 0.434,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160802"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 64.1,
+   "Probability": 0.158,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160802"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 90.9,
+   "Probability": 0.247,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160802"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 40,
+   "Probability": 0.083,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160802"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-02T00:00:00",
+   "Predicted Level": 17,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160802"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 55.8,
+   "Probability": 0.178,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160803"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 57.6,
+   "Probability": 0.184,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160803"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160803"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 47.7,
+   "Probability": 0.119,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160803"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 165.7,
+   "Probability": 0.402,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160803"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 74.5,
+   "Probability": 0.188,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160803"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 89.1,
+   "Probability": 0.243,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160803"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 39.5,
+   "Probability": 0.081,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160803"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-03T00:00:00",
+   "Predicted Level": 17.8,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160803"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 52.8,
+   "Probability": 0.169,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160804"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 54.3,
+   "Probability": 0.174,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160804"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160804"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 43.6,
+   "Probability": 0.107,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160804"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 193.4,
+   "Probability": 0.445,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160804"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 54.9,
+   "Probability": 0.131,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160804"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 58.4,
+   "Probability": 0.159,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160804"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 36.6,
+   "Probability": 0.073,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160804"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-04T00:00:00",
+   "Predicted Level": 15.4,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160804"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 62.5,
+   "Probability": 0.197,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160805"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 70.4,
+   "Probability": 0.22,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160805"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160805"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 51.5,
+   "Probability": 0.131,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160805"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 152.6,
+   "Probability": 0.38,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160805"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 71.3,
+   "Probability": 0.179,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160805"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 104.7,
+   "Probability": 0.281,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160805"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 41.8,
+   "Probability": 0.088,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160805"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-05T00:00:00",
+   "Predicted Level": 16.9,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160805"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 72.8,
+   "Probability": 0.226,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160806"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 55,
+   "Probability": 0.176,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160806"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160806"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 60.4,
+   "Probability": 0.158,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160806"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 148.3,
+   "Probability": 0.372,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160806"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 67,
+   "Probability": 0.167,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160806"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 103,
+   "Probability": 0.277,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160806"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 48,
+   "Probability": 0.107,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160806"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-06T00:00:00",
+   "Predicted Level": 17.5,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160806"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 64.4,
+   "Probability": 0.203,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160807"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 64.9,
+   "Probability": 0.205,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160807"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 22.8,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160807"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 50.8,
+   "Probability": 0.129,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160807"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 159.5,
+   "Probability": 0.392,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160807"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 32.5,
+   "Probability": 0.063,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160807"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 97.8,
+   "Probability": 0.264,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160807"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 30.5,
+   "Probability": 0.055,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160807"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-07T00:00:00",
+   "Predicted Level": 16.7,
+   "Probability": 0.023,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160807"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 174.3,
+   "Probability": 0.424,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160808"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 63.5,
+   "Probability": 0.201,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160808"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 26.6,
+   "Probability": 0.035,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160808"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 62.4,
+   "Probability": 0.164,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160808"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 205.9,
+   "Probability": 0.463,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160808"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 114.7,
+   "Probability": 0.29,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160808"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 114.9,
+   "Probability": 0.304,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160808"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 68.5,
+   "Probability": 0.167,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160808"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-08T00:00:00",
+   "Predicted Level": 14.5,
+   "Probability": 0.018,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160808"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 86.1,
+   "Probability": 0.259,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160809"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 60.3,
+   "Probability": 0.192,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160809"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160809"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 54.5,
+   "Probability": 0.14,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160809"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 144.6,
+   "Probability": 0.366,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160809"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 61.3,
+   "Probability": 0.15,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160809"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 64.4,
+   "Probability": 0.176,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160809"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 43.9,
+   "Probability": 0.095,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160809"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-09T00:00:00",
+   "Predicted Level": 14.4,
+   "Probability": 0.018,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160809"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 22.2,
+   "Probability": 0.065,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160810"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 56,
+   "Probability": 0.179,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160810"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 24,
+   "Probability": 0.029,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160810"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 46.9,
+   "Probability": 0.117,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160810"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 179.4,
+   "Probability": 0.424,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160810"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 30.8,
+   "Probability": 0.058,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160810"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 65.5,
+   "Probability": 0.18,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160810"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 34.2,
+   "Probability": 0.066,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160810"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-10T00:00:00",
+   "Predicted Level": 14,
+   "Probability": 0.017,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160810"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 21.3,
+   "Probability": 0.061,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160811"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 60.8,
+   "Probability": 0.193,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160811"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 22,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160811"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 36.8,
+   "Probability": 0.086,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160811"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 171.3,
+   "Probability": 0.412,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160811"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 33.5,
+   "Probability": 0.066,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160811"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 66.9,
+   "Probability": 0.183,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160811"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 21.4,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160811"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-11T00:00:00",
+   "Predicted Level": 15.5,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160811"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 67.4,
+   "Probability": 0.211,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160812"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 68.9,
+   "Probability": 0.216,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160812"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 21.9,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160812"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 44.1,
+   "Probability": 0.108,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160812"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 161,
+   "Probability": 0.395,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160812"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 55.2,
+   "Probability": 0.132,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160812"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 68.6,
+   "Probability": 0.188,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160812"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 24.7,
+   "Probability": 0.039,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160812"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-12T00:00:00",
+   "Predicted Level": 16.6,
+   "Probability": 0.023,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160812"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 144.5,
+   "Probability": 0.377,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160813"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 228.6,
+   "Probability": 0.493,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160813"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 34.1,
+   "Probability": 0.054,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160813"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 228.4,
+   "Probability": 0.492,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160813"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 1542.5,
+   "Probability": 0.908,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160813"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 336.7,
+   "Probability": 0.609,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160813"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 71.8,
+   "Probability": 0.197,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160813"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 102,
+   "Probability": 0.257,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160813"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-13T00:00:00",
+   "Predicted Level": 39.2,
+   "Probability": 0.089,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160813"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 66.5,
+   "Probability": 0.209,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160814"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 64.6,
+   "Probability": 0.204,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160814"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 22.5,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160814"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 51.7,
+   "Probability": 0.132,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160814"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 165.3,
+   "Probability": 0.402,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160814"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 43,
+   "Probability": 0.095,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160814"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 108.9,
+   "Probability": 0.29,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160814"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 29.8,
+   "Probability": 0.053,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160814"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-14T00:00:00",
+   "Predicted Level": 17,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160814"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 45.3,
+   "Probability": 0.145,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160815"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 76.9,
+   "Probability": 0.237,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160815"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160815"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 60.5,
+   "Probability": 0.158,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160815"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 172,
+   "Probability": 0.413,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160815"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 86.5,
+   "Probability": 0.221,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160815"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 66.1,
+   "Probability": 0.181,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160815"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 47.5,
+   "Probability": 0.105,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160815"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-15T00:00:00",
+   "Predicted Level": 18.4,
+   "Probability": 0.027,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160815"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 299.5,
+   "Probability": 0.562,
+   "Swim Advisory": "Y",
+   "RecordID": "Calumet20160816"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 88.8,
+   "Probability": 0.266,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160816"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 26.3,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160816"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 49.9,
+   "Probability": 0.126,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160816"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 242.9,
+   "Probability": 0.509,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160816"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 61.8,
+   "Probability": 0.152,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160816"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 121.9,
+   "Probability": 0.319,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160816"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 26.3,
+   "Probability": 0.043,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160816"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-16T00:00:00",
+   "Predicted Level": 20.5,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160816"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 38.4,
+   "Probability": 0.122,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160817"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 68.3,
+   "Probability": 0.214,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160817"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 22.5,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160817"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 50.1,
+   "Probability": 0.127,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160817"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 139.3,
+   "Probability": 0.356,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160817"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 43.3,
+   "Probability": 0.096,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160817"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 74.7,
+   "Probability": 0.205,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160817"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 29,
+   "Probability": 0.051,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160817"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-17T00:00:00",
+   "Predicted Level": 15.6,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160817"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 70.9,
+   "Probability": 0.221,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160818"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 706.3,
+   "Probability": 0.76,
+   "Swim Advisory": "Y",
+   "RecordID": "63rdStreet20160818"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 26.9,
+   "Probability": 0.035,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160818"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 105.5,
+   "Probability": 0.277,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160818"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 454.7,
+   "Probability": 0.679,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160818"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 120.1,
+   "Probability": 0.302,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160818"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 74.8,
+   "Probability": 0.206,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160818"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 52.4,
+   "Probability": 0.12,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160818"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-18T00:00:00",
+   "Predicted Level": 25.4,
+   "Probability": 0.047,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160818"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 39.4,
+   "Probability": 0.126,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160819"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 77.7,
+   "Probability": 0.239,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160819"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 22.8,
+   "Probability": 0.026,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160819"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 50.9,
+   "Probability": 0.129,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160819"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 133.7,
+   "Probability": 0.345,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160819"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 48.2,
+   "Probability": 0.111,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160819"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 77.7,
+   "Probability": 0.213,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160819"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 26.4,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160819"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-19T00:00:00",
+   "Predicted Level": 15,
+   "Probability": 0.019,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160819"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 105.1,
+   "Probability": 0.303,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160820"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 75.1,
+   "Probability": 0.232,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160820"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 27.3,
+   "Probability": 0.036,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160820"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 68.9,
+   "Probability": 0.183,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160820"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 135.7,
+   "Probability": 0.349,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160820"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 118.6,
+   "Probability": 0.299,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160820"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 85.6,
+   "Probability": 0.234,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160820"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 52.8,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160820"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-20T00:00:00",
+   "Predicted Level": 17.1,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160820"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 185.5,
+   "Probability": 0.44,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160821"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 80.4,
+   "Probability": 0.246,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160821"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 27.7,
+   "Probability": 0.037,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160821"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 277.6,
+   "Probability": 0.549,
+   "Swim Advisory": "Y",
+   "RecordID": "Foster20160821"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 843.4,
+   "Probability": 0.817,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160821"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 247.3,
+   "Probability": 0.516,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160821"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 130.4,
+   "Probability": 0.336,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160821"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 114.7,
+   "Probability": 0.287,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160821"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-21T00:00:00",
+   "Predicted Level": 36.5,
+   "Probability": 0.08,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160821"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 97.4,
+   "Probability": 0.286,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160822"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 68.5,
+   "Probability": 0.215,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160822"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 22.3,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160822"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 70.2,
+   "Probability": 0.186,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160822"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 147.8,
+   "Probability": 0.372,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160822"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 39.3,
+   "Probability": 0.084,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160822"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 124,
+   "Probability": 0.323,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160822"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 37.4,
+   "Probability": 0.075,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160822"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-22T00:00:00",
+   "Predicted Level": 16.8,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160822"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 31.3,
+   "Probability": 0.098,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160823"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 64.8,
+   "Probability": 0.204,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160823"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 20.9,
+   "Probability": 0.022,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160823"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 54.3,
+   "Probability": 0.14,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160823"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 115.4,
+   "Probability": 0.308,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160823"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 40.5,
+   "Probability": 0.088,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160823"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 76.9,
+   "Probability": 0.211,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160823"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 27.5,
+   "Probability": 0.046,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160823"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-23T00:00:00",
+   "Predicted Level": 14.9,
+   "Probability": 0.019,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160823"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 34.4,
+   "Probability": 0.108,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160824"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 77.9,
+   "Probability": 0.24,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160824"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 17.4,
+   "Probability": 0.015,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160824"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 34,
+   "Probability": 0.077,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160824"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 105.6,
+   "Probability": 0.286,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160824"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 51.4,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160824"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 87.2,
+   "Probability": 0.238,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160824"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 17.7,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160824"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-24T00:00:00",
+   "Predicted Level": 13.9,
+   "Probability": 0.017,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160824"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 82.1,
+   "Probability": 0.25,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160825"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 96.2,
+   "Probability": 0.284,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160825"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 32.8,
+   "Probability": 0.05,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160825"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 96.7,
+   "Probability": 0.256,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160825"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 364.3,
+   "Probability": 0.622,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160825"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 111.3,
+   "Probability": 0.282,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160825"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 84.7,
+   "Probability": 0.232,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160825"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 50,
+   "Probability": 0.113,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160825"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-25T00:00:00",
+   "Predicted Level": 20.6,
+   "Probability": 0.033,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160825"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 59.9,
+   "Probability": 0.19,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160826"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 95.7,
+   "Probability": 0.282,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160826"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160826"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 81.4,
+   "Probability": 0.217,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160826"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 122.3,
+   "Probability": 0.322,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160826"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 102.1,
+   "Probability": 0.26,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160826"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 203.3,
+   "Probability": 0.459,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160826"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 60.1,
+   "Probability": 0.143,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160826"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-26T00:00:00",
+   "Predicted Level": 15.5,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160826"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 157.6,
+   "Probability": 0.399,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160827"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 455.5,
+   "Probability": 0.664,
+   "Swim Advisory": "Y",
+   "RecordID": "63rdStreet20160827"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 43.8,
+   "Probability": 0.081,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160827"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 340.5,
+   "Probability": 0.608,
+   "Swim Advisory": "Y",
+   "RecordID": "Foster20160827"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 949.5,
+   "Probability": 0.838,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160827"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 979.5,
+   "Probability": 0.864,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160827"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 127.4,
+   "Probability": 0.33,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160827"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 311.4,
+   "Probability": 0.587,
+   "Swim Advisory": "Y",
+   "RecordID": "Leone20160827"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-27T00:00:00",
+   "Predicted Level": 30.3,
+   "Probability": 0.062,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160827"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 64.5,
+   "Probability": 0.203,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160828"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 84.8,
+   "Probability": 0.257,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160828"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 27.3,
+   "Probability": 0.036,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160828"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 84.2,
+   "Probability": 0.224,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160828"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 185.8,
+   "Probability": 0.434,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160828"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 154.1,
+   "Probability": 0.372,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160828"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 199,
+   "Probability": 0.453,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160828"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 62.1,
+   "Probability": 0.149,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160828"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-28T00:00:00",
+   "Predicted Level": 16.8,
+   "Probability": 0.023,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160828"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 103.9,
+   "Probability": 0.3,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160829"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 85.5,
+   "Probability": 0.259,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160829"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 26.4,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160829"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 85.9,
+   "Probability": 0.229,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160829"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 158.6,
+   "Probability": 0.391,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160829"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 266.1,
+   "Probability": 0.538,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160829"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 217.4,
+   "Probability": 0.478,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160829"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 86.4,
+   "Probability": 0.217,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160829"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-29T00:00:00",
+   "Predicted Level": 15.5,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160829"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 59.3,
+   "Probability": 0.188,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160830"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 161.8,
+   "Probability": 0.406,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160830"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 29.7,
+   "Probability": 0.042,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160830"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 154.3,
+   "Probability": 0.378,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160830"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 458.1,
+   "Probability": 0.681,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160830"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 326.4,
+   "Probability": 0.6,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160830"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 201.8,
+   "Probability": 0.456,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160830"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 106.5,
+   "Probability": 0.268,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160830"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-30T00:00:00",
+   "Predicted Level": 22.2,
+   "Probability": 0.038,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160830"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 68.1,
+   "Probability": 0.213,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160831"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 114.6,
+   "Probability": 0.323,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160831"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 26.4,
+   "Probability": 0.034,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160831"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 83.6,
+   "Probability": 0.223,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160831"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 163.8,
+   "Probability": 0.399,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160831"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 131.1,
+   "Probability": 0.326,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160831"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 265.6,
+   "Probability": 0.535,
+   "Swim Advisory": "Y",
+   "RecordID": "Rainbow20160831"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 61.6,
+   "Probability": 0.147,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160831"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-08-31T00:00:00",
+   "Predicted Level": 15.7,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160831"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 284.6,
+   "Probability": 0.549,
+   "Swim Advisory": "Y",
+   "RecordID": "Calumet20160901"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 120.3,
+   "Probability": 0.334,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160901"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 30,
+   "Probability": 0.043,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160901"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 130.1,
+   "Probability": 0.331,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160901"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 270.4,
+   "Probability": 0.539,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160901"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 190.9,
+   "Probability": 0.436,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160901"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 293.5,
+   "Probability": 0.563,
+   "Swim Advisory": "Y",
+   "RecordID": "Rainbow20160901"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 144.9,
+   "Probability": 0.353,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160901"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-01T00:00:00",
+   "Predicted Level": 11.1,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160901"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 263.5,
+   "Probability": 0.529,
+   "Swim Advisory": "Y",
+   "RecordID": "Calumet20160902"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 79.3,
+   "Probability": 0.243,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160902"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160902"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 93.9,
+   "Probability": 0.249,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160902"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 266,
+   "Probability": 0.535,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160902"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 94.8,
+   "Probability": 0.242,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160902"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 155.4,
+   "Probability": 0.383,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160902"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 67.3,
+   "Probability": 0.164,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160902"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-02T00:00:00",
+   "Predicted Level": 11.5,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160902"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 91.8,
+   "Probability": 0.273,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160903"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 75.4,
+   "Probability": 0.233,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160903"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160903"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 94,
+   "Probability": 0.249,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160903"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 162.7,
+   "Probability": 0.398,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160903"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 101.8,
+   "Probability": 0.259,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160903"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 83.8,
+   "Probability": 0.229,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160903"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 67.4,
+   "Probability": 0.164,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160903"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-03T00:00:00",
+   "Predicted Level": 12.3,
+   "Probability": 0.013,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160903"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 97.8,
+   "Probability": 0.287,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160904"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 72.7,
+   "Probability": 0.226,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160904"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160904"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 92.8,
+   "Probability": 0.246,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160904"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 137.9,
+   "Probability": 0.353,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160904"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 113.5,
+   "Probability": 0.287,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160904"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 89.5,
+   "Probability": 0.244,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160904"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 66.6,
+   "Probability": 0.162,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160904"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-04T00:00:00",
+   "Predicted Level": 12.6,
+   "Probability": 0.014,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160904"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 43.7,
+   "Probability": 0.14,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160905"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 75.8,
+   "Probability": 0.234,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160905"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 19.9,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160905"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 54.6,
+   "Probability": 0.141,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160905"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 112.5,
+   "Probability": 0.302,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160905"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 50.9,
+   "Probability": 0.119,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160905"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 93.2,
+   "Probability": 0.253,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160905"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 26.2,
+   "Probability": 0.043,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160905"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-05T00:00:00",
+   "Predicted Level": 10.4,
+   "Probability": 0.009,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160905"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 43.3,
+   "Probability": 0.139,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160906"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 69.4,
+   "Probability": 0.217,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160906"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 21,
+   "Probability": 0.022,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160906"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 51.4,
+   "Probability": 0.131,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160906"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 151.3,
+   "Probability": 0.378,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160906"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 69.4,
+   "Probability": 0.174,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160906"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 104.2,
+   "Probability": 0.28,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160906"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 25.8,
+   "Probability": 0.042,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160906"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-06T00:00:00",
+   "Predicted Level": 10.9,
+   "Probability": 0.01,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160906"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 49,
+   "Probability": 0.157,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160907"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 71.3,
+   "Probability": 0.222,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160907"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 19.3,
+   "Probability": 0.019,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160907"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 41.5,
+   "Probability": 0.1,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160907"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 137.4,
+   "Probability": 0.352,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160907"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 66.3,
+   "Probability": 0.164,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160907"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 103.1,
+   "Probability": 0.277,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160907"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 20.5,
+   "Probability": 0.028,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160907"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-07T00:00:00",
+   "Predicted Level": 10,
+   "Probability": 0.009,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160907"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 71.7,
+   "Probability": 0.223,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160908"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 411.5,
+   "Probability": 0.64,
+   "Swim Advisory": "Y",
+   "RecordID": "63rdStreet20160908"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 27.5,
+   "Probability": 0.037,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160908"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 94.6,
+   "Probability": 0.251,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160908"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 229.4,
+   "Probability": 0.493,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160908"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 123.9,
+   "Probability": 0.311,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160908"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 171.3,
+   "Probability": 0.41,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160908"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 45.9,
+   "Probability": 0.1,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160908"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-08T00:00:00",
+   "Predicted Level": 15.8,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160908"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 49.7,
+   "Probability": 0.159,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160909"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 97.8,
+   "Probability": 0.287,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160909"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160909"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 93.9,
+   "Probability": 0.249,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160909"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 155.7,
+   "Probability": 0.386,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160909"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 169.8,
+   "Probability": 0.401,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160909"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 150.1,
+   "Probability": 0.374,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160909"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 66.7,
+   "Probability": 0.162,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160909"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-09T00:00:00",
+   "Predicted Level": 12.4,
+   "Probability": 0.013,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160909"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 57.7,
+   "Probability": 0.184,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160910"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 109,
+   "Probability": 0.311,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160910"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 22,
+   "Probability": 0.024,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160910"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 85,
+   "Probability": 0.226,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160910"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 148.3,
+   "Probability": 0.372,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160910"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 88.3,
+   "Probability": 0.225,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160910"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 170.7,
+   "Probability": 0.409,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160910"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 42,
+   "Probability": 0.089,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160910"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-10T00:00:00",
+   "Predicted Level": 14,
+   "Probability": 0.017,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160910"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 166.8,
+   "Probability": 0.413,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160911"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 86.5,
+   "Probability": 0.261,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160911"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 22.4,
+   "Probability": 0.025,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160911"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 103.9,
+   "Probability": 0.273,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160911"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 265.4,
+   "Probability": 0.534,
+   "Swim Advisory": "Y",
+   "RecordID": "Montrose20160911"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 70.8,
+   "Probability": 0.177,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160911"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 157.8,
+   "Probability": 0.387,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160911"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 51.6,
+   "Probability": 0.118,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160911"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-11T00:00:00",
+   "Predicted Level": 15.3,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160911"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 52.7,
+   "Probability": 0.168,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160912"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 90.8,
+   "Probability": 0.271,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160912"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 20.7,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160912"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 78.3,
+   "Probability": 0.209,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160912"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 101,
+   "Probability": 0.275,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160912"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 53.7,
+   "Probability": 0.128,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160912"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 97.1,
+   "Probability": 0.263,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160912"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 36.2,
+   "Probability": 0.072,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160912"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-12T00:00:00",
+   "Predicted Level": 11.4,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160912"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 33,
+   "Probability": 0.104,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160913"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 75.6,
+   "Probability": 0.234,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160913"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 19.9,
+   "Probability": 0.02,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160913"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 65,
+   "Probability": 0.171,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160913"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 99.1,
+   "Probability": 0.271,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160913"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 55.1,
+   "Probability": 0.132,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160913"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 107.6,
+   "Probability": 0.287,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160913"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 30.2,
+   "Probability": 0.054,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160913"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-13T00:00:00",
+   "Predicted Level": 9.6,
+   "Probability": 0.008,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160913"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 254.9,
+   "Probability": 0.521,
+   "Swim Advisory": "Y",
+   "RecordID": "Calumet20160914"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 125.8,
+   "Probability": 0.344,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160914"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 30.5,
+   "Probability": 0.044,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160914"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 164.3,
+   "Probability": 0.396,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160914"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 157,
+   "Probability": 0.388,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160914"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 277.1,
+   "Probability": 0.551,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160914"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 295.7,
+   "Probability": 0.566,
+   "Swim Advisory": "Y",
+   "RecordID": "Rainbow20160914"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 174.7,
+   "Probability": 0.408,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160914"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-14T00:00:00",
+   "Predicted Level": 11.9,
+   "Probability": 0.012,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160914"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 113.1,
+   "Probability": 0.319,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160915"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 86.6,
+   "Probability": 0.261,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160915"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160915"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 100.4,
+   "Probability": 0.265,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160915"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 88.4,
+   "Probability": 0.245,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160915"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 135.7,
+   "Probability": 0.336,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160915"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 154.5,
+   "Probability": 0.382,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160915"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 70.6,
+   "Probability": 0.173,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160915"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-15T00:00:00",
+   "Predicted Level": 11.3,
+   "Probability": 0.011,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160915"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 149.5,
+   "Probability": 0.386,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160916"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 89.3,
+   "Probability": 0.268,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160916"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160916"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 108.6,
+   "Probability": 0.285,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160916"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 88,
+   "Probability": 0.244,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160916"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 131.1,
+   "Probability": 0.326,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160916"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 114.8,
+   "Probability": 0.303,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160916"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 74.8,
+   "Probability": 0.185,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160916"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-16T00:00:00",
+   "Predicted Level": 9.1,
+   "Probability": 0.007,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160916"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 41.3,
+   "Probability": 0.132,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160917"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 98.6,
+   "Probability": 0.289,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160917"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 23.5,
+   "Probability": 0.027,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160917"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 99.8,
+   "Probability": 0.264,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160917"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 127.7,
+   "Probability": 0.333,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160917"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 118.9,
+   "Probability": 0.3,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160917"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 108.1,
+   "Probability": 0.289,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160917"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 47.2,
+   "Probability": 0.104,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160917"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-17T00:00:00",
+   "Predicted Level": 13.3,
+   "Probability": 0.015,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160917"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 70.8,
+   "Probability": 0.22,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160918"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 94.2,
+   "Probability": 0.279,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160918"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160918"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 118.2,
+   "Probability": 0.306,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160918"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 93.1,
+   "Probability": 0.257,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160918"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 136,
+   "Probability": 0.337,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160918"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 164.3,
+   "Probability": 0.399,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160918"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 80.3,
+   "Probability": 0.2,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160918"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-18T00:00:00",
+   "Predicted Level": 10.2,
+   "Probability": 0.009,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160918"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 38,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160919"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 83.6,
+   "Probability": 0.254,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160919"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 20.6,
+   "Probability": 0.021,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160919"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 78.7,
+   "Probability": 0.21,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160919"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 91.1,
+   "Probability": 0.252,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160919"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 58.2,
+   "Probability": 0.141,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160919"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 110.6,
+   "Probability": 0.294,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160919"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 36,
+   "Probability": 0.071,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160919"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-19T00:00:00",
+   "Predicted Level": 9.1,
+   "Probability": 0.007,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160919"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 155.7,
+   "Probability": 0.396,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160920"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 109.3,
+   "Probability": 0.312,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160920"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 24.5,
+   "Probability": 0.03,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160920"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 110.4,
+   "Probability": 0.289,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160920"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 95.5,
+   "Probability": 0.262,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160920"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 199.5,
+   "Probability": 0.45,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160920"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 289.6,
+   "Probability": 0.56,
+   "Swim Advisory": "Y",
+   "RecordID": "Rainbow20160920"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 75.8,
+   "Probability": 0.188,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160920"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-20T00:00:00",
+   "Predicted Level": 12.3,
+   "Probability": 0.013,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160920"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 19.4,
+   "Probability": 0.055,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160921"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 101.2,
+   "Probability": 0.295,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160921"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 21,
+   "Probability": 0.022,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160921"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 79.6,
+   "Probability": 0.212,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160921"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 124.1,
+   "Probability": 0.326,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160921"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 94.3,
+   "Probability": 0.241,
+   "Swim Advisory": "N",
+   "RecordID": "Osterman20160921"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 116.1,
+   "Probability": 0.306,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160921"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 35.9,
+   "Probability": 0.071,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160921"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-21T00:00:00",
+   "Predicted Level": 9.5,
+   "Probability": 0.008,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160921"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 38.1,
+   "Probability": 0.121,
+   "Swim Advisory": "N",
+   "RecordID": "Calumet20160922"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 80.8,
+   "Probability": 0.247,
+   "Swim Advisory": "N",
+   "RecordID": "63rdStreet20160922"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 31.1,
+   "Probability": 0.046,
+   "Swim Advisory": "N",
+   "RecordID": "OakStreet20160922"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 160.9,
+   "Probability": 0.39,
+   "Swim Advisory": "N",
+   "RecordID": "Foster20160922"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 198.6,
+   "Probability": 0.453,
+   "Swim Advisory": "N",
+   "RecordID": "Montrose20160922"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 251.6,
+   "Probability": 0.521,
+   "Swim Advisory": "Y",
+   "RecordID": "Osterman20160922"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 106.2,
+   "Probability": 0.284,
+   "Swim Advisory": "N",
+   "RecordID": "Rainbow20160922"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 106.2,
+   "Probability": 0.267,
+   "Swim Advisory": "N",
+   "RecordID": "Leone20160922"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "2016-09-22T00:00:00",
+   "Predicted Level": 10.6,
+   "Probability": 0.01,
+   "Swim Advisory": "N",
+   "RecordID": "Ohio20160922"
+ },
+ {
+   "Beach Name": "Calumet",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Calumet"
+ },
+ {
+   "Beach Name": "63rdStreet",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "63rdStreet"
+ },
+ {
+   "Beach Name": "OakStreet",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "OakStreet"
+ },
+ {
+   "Beach Name": "Foster",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Foster"
+ },
+ {
+   "Beach Name": "Montrose",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Montrose"
+ },
+ {
+   "Beach Name": "Osterman",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Osterman"
+ },
+ {
+   "Beach Name": "Rainbow",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Rainbow"
+ },
+ {
+   "Beach Name": "Leone",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Leone"
+ },
+ {
+   "Beach Name": "Ohio",
+   "Date": "",
+   "Predicted Level": null,
+   "Probability": null,
+   "Swim Advisory": "",
+   "RecordID": "Ohio"
+ }
+]
